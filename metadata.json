@@ -1,0 +1,6 @@
+{
+  "name": "SWIFT gpi Banking Fund Tracker & Secure API Gateway",
+  "description": "Real-time banking SWIFT gpi fund verification, transaction monitoring dashboard, and secure API gateway with ISO 20022 pacs.008 support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
